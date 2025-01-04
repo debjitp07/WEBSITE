@@ -68,6 +68,62 @@ TH{
 IMG{
     margin-top: 20PX;
 }
+footer {
+  background-color: #ffbbbb;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.footer-section {
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+.footer-section h4 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.footer-section p,
+.footer-section ul {
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 10px;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #fff;
+  padding: 5px;
+  margin: 0 10px;
+  font-size: 1.1em;
+}
+
+.social-links a:hover {
+  color: #00aaff;
+}
+
+.footer-bottom {
+  background-color: #222;
+  padding: 10px;
+  font-size: 0.8em;
+}
     </style>
 </head>
 <body>
