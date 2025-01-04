@@ -72,7 +72,32 @@ IMG{
 </head>
 <body>
     <header><h1>WELCOME TO MY WEBPAGE</h1>
-    <h6>WELCOME TO DEBJIT WORLD</h6></header>
+    <h6>WELCOME TO DEBJIT WORLD</h6></header><footer>
+                <div class="footer-container">
+                  <div class="footer-section">
+                    <h4>About Us</h4>
+                    <p>We are a company dedicated to providing the best services for our customers.</p>
+                  </div>
+                  <div class="footer-section">
+                    <h4>Contact</h4>
+                    <ul>
+                      <li>Email: debjitbagdi35@gmail.com</li>
+                      <li>Phone: 8116286731</li>
+                    </ul>
+                  </div>
+                  <div class="footer-section">
+                    <h4>Follow Us</h4>
+                    <ul class="social-links">
+                      <li><a href="https://www.facebook.com/debjit.bagdi.12?mibextid=ZbWKwL">Facebook</a></li>
+                      <li><a href="https://x.com/Debjitlovem?t=psYNOguVPY8bsbpq4gDZQg&s=09">Twitter</a></li>
+                      <li><a href="https://www.instagram.com/debj_it_1/profilecard/?igsh=eXhhMm8wcXZ4bWJv">Instagram</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="footer-bottom">
+                  <p>&copy; 2025 Company Name. All Rights Reserved.</p>
+                </div>
+              </footer>
     <NAV><a href="#home" class="debjit">Home</a>
         <a href="#about">About</a>
         <a href="#service">Service</a>
