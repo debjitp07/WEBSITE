@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Home page with image and table</title>
-    <H2>WELCOME TO DEBJIT WORLD</H2>
+
     <style>body{
         font-family: Arial, sans-serif;
         margin: 0;
@@ -73,7 +73,8 @@ IMG{
     </style>
 </head>
 <body>
-    <header><h1>WELCOME TO MY WEBPAGE</h1></header>
+    <header><h1>WELCOME TO MY WEBPAGE</h1><br>
+        <H2>WELCOME TO DEBJIT WORLD</H2></header>
     <NAV><a href="#home" class="debjit">Home</a>
         <a href="#about">About</a>
         <a href="#service">Service</a>
