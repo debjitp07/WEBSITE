@@ -96,8 +96,6 @@ IMG{
 <footer>
                 <div class="footer-container">
                   <div class="footer-section">
-                    <h4>About Us</h4>
-                    <p>We are a company dedicated to providing the best services for our customers.</p>
                   </div>
                   <div class="footer-section">
                     <h4>Contact</h4>
