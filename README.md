@@ -72,7 +72,7 @@ IMG{
 </head>
 <body>
     <header><h1>WELCOME TO MY WEBPAGE</h1>
-    <h3>WELCOME TO DEBJIT WORLD</h3></header>
+    <h6>WELCOME TO DEBJIT WORLD</h6></header>
     <NAV><a href="#home" class="debjit">Home</a>
         <a href="#about">About</a>
         <a href="#service">Service</a>
