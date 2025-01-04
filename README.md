@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>Home page with image and table</title>
+    <H2>WELCOME TO DEBJIT WORLD</H2>
     <style>body{
         font-family: Arial, sans-serif;
         margin: 0;
